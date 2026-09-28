@@ -24,6 +24,8 @@ J'utilise l'analyse de données et l'automatisation pour transformer des donnée
 Dashboard permettant d'analyser les stocks, les prévisions, les performances et les risques de rupture.
 
 **Technologies :** Power BI | Power Query | DAX | SQL
+<img width="1055" height="840" alt="Capture d&#39;écran 2026-09-28 211936" src="https://github.com/user-attachments/assets/142ed06a-8251-41fb-8798-abce3b2a46c0" />
+
 
 ### 📈 Forecast Analytics
 Analyse de la qualité et de la stabilité des prévisions afin d'identifier les références nécessitant une attention particulière.
