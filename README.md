@@ -32,7 +32,12 @@ Jeu de données utilisé : [Portfolio_Supply_Chain_100_References_2026.xlsx](htt
 ### 📈 Forecast Analytics
 Analyse de la qualité et de la stabilité des prévisions afin d'identifier les références nécessitant une attention particulière.
 
+Jeu de données utilisé :[Jeu_donnees_Forecast_Analytics_50_produits.xlsx](https://github.com/user-attachments/files/32811283/Jeu_donnees_Forecast_Analytics_50_produits.xlsx)
+
 **Technologies :** Python | SQL | Power BI
+
+<img width="1217" height="683" alt="image" src="https://github.com/user-attachments/assets/09fd7f32-7b23-4fdf-8b86-2c35d3013813" />
+
 
 ### 🏭 Production Performance Analytics
 Analyse des performances de production et des écarts par ligne et par produit.
