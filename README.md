@@ -50,6 +50,8 @@ Projets de conception d'agents IA appliqués aux problématiques Supply Chain.
 Objectif : explorer comment des agents intelligents peuvent faciliter l'accès à l'information, l'analyse de données, l'aide à la décision et l'automatisation de certaines tâches Supply Chain.
 
 **Technologies explorées :** Microsoft Copilot Studio | AI | Automation | Data
+<img width="1892" height="867" alt="image" src="https://github.com/user-attachments/assets/6bb03b3b-afbc-4765-add2-87ded23eb643" />
+
 
 ### 🍽️ Business Analytics for SMEs
 Développement de solutions BI permettant aux PME de suivre et analyser leurs performances.
